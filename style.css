@@ -22,7 +22,7 @@ div > h2{
 }
 .nmbr{
     position: relative;
-    top: 7px;
+    top: 4px;
     left: 190px;
     background-color: hsl(224, 21%, 14%);
     color: white;
